@@ -35,9 +35,12 @@ $iPhone['name'] =  "iPhone 13"
 $iPhone['price'] = "$ 10000"
 $iPhone['class'] = "Flagship"; 
 
-echo "Product Name  :".$iphone[name]"<br>";
-echo "Product Price :".$iphone[price]"<br>";
-echo "Product Class :".$iphone[class]"<br>";
+echo "<ul>"
+echo "<li>Product Name  :".$iphone[name]"</li>";
+echo "<li>Product Price :".$iphone[price]"</li>";
+echo "<li>Product Class :".$iphone[class]"</li>";
+echo "</ul>"
+echo "<hr>";
     ?>
 </body>
 </html>
