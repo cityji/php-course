@@ -22,7 +22,7 @@ echo "<b> PHP </b>";
 $name ="iPhone"
 $value = 10000;
 
-echo "<h4>produce : .$name. <br> Price : .$price.</h4>";
+echo "<h4>Product is  : .$name. <br> Price  is : .$price.</h4>";
 
 ?>
 
