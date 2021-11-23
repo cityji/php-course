@@ -21,27 +21,27 @@ echo "<b> PHP </b>";
 
     <!-- chap 2 : Varriables | declaration and usage -->
 <?php
-$name ="iPhone"
+$name ="iPhone";
 $value = 10000;
 
-echo "<h4>Product is  : ".$name." <br> Price  is : ".$price."</h4>";
+echo "<h4>Product is  : ".$name." <br> Price  is : ".$value."</h4>";
 
 ?>
 
     <!-- chap 3 : Array Varriables | Declaration and usage -->
 
     <?php
-$iPhone['name'] =  "iPhone 13"
-$iPhone['price'] = "$ 10000"
+$iPhone['name'] =  "iPhone 13";
+$iPhone['price'] = "$ 10000";
 $iPhone['class'] = "Flagship"; 
 
-echo "<ul>"
+echo "<ul>";
 echo "<li>Product Name  :".$iPhone['name']."</li>";
 echo "<li>Product Price :".$iPhone['price']."</li>";
 echo "<li>Product Class :".$iPhone['class']."</li>";
-echo "</ul>"
+echo "</ul>";
 echo "<hr>";
     ?>
-    
+
 </body>
 </html>
