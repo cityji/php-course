@@ -14,8 +14,17 @@
 <body>
     <h1>This is
     <?php
-echo "<b>PHP</b>";
+echo "<b> PHP </b>";
     ?>
-    !</h1>
+    Store !</h1>
+
+<?php
+$name ="iPhone"
+$value = 10000;
+
+echo "<h4>produce : .$name. <br> Price : .$price.</h4>";
+
+?>
+
 </body>
 </html>
