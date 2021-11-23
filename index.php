@@ -42,5 +42,6 @@ echo "<li>Product Class :".$iPhone['class']."</li>";
 echo "</ul>"
 echo "<hr>";
     ?>
+    
 </body>
 </html>
